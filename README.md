@@ -9,7 +9,4 @@ Instructor: Clarence I-Zhuen Lee
 Project：：Ukiyo「浮世」brings the (floating) world of Early Japanese modern literature into a digital adaptation, in the form of Tech Art or Technical Direction. 
 
 ## Works
-1. Peony Lantern; adpated from Asai Ryoi's 'Hand Puppets: The Peony Lantern'
-
-
-[![Project：：Ukiyo「浮世」](http://img.youtube.com/vi/nszzhBlWNhw/0.jpg)](http://www.youtube.com/watch?v=nszzhBlWNhw "Project：：Ukiyo「浮世」")
+1. [Peony Lantern](http://www.youtube.com/watch?v=nszzhBlWNhw); adpated from Asai Ryoi's 'Hand Puppets: The Peony Lantern'
