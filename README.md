@@ -1,7 +1,8 @@
 # Project：：Ukiyo「浮世」
 Gavin Zimmerman
 
-Japanese 3831: The Floating World of Play and Passion
+University of Colorado, Boulder
+Japanese 3831: The Floating World of Play and Passion<br>
 Instructor: Clarence I-Zhuen Lee
 
 ## About
@@ -9,3 +10,6 @@ Project：：Ukiyo「浮世」brings the (floating) world of Early Japanese mode
 
 ## Works
 1. Peony Lantern; adpated from Asai Ryoi's 'Hand Puppets: The Peony Lantern'
+
+
+[![Project：：Ukiyo「浮世」](http://img.youtube.com/vi/nszzhBlWNhw/0.jpg)](http://www.youtube.com/watch?v=nszzhBlWNhw "Project：：Ukiyo「浮世」")
