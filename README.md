@@ -1,7 +1,7 @@
 # Project：：Ukiyo「浮世」
 Gavin Zimmerman
 
-University of Colorado, Boulder
+University of Colorado, Boulder<br>
 Japanese 3831: The Floating World of Play and Passion<br>
 Instructor: Clarence I-Zhuen Lee
 
